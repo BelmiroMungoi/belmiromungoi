@@ -4,6 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belmiromungoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmiromungoi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  ## Skills :nerd_face:
+  
   <div style="display: inline_block"><br>  
   <img align="center" alt="Belm-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
  <img align="center" alt="Belm-Spring" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
@@ -14,7 +17,8 @@
     
 </div>
   
-  ##
+  ## Contact :iphone:
+  
   
   <div>
     
@@ -24,6 +28,13 @@
   <a href="https://www.linkedin.com/in/belmiro-mungoi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>  
+  
+   ## Total Vistors in Profile :detective:
+  
+  <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/BelmiroMungoi/count.svg" />
+ </p>
 <!--
 **BelmiroMungoi/belmiromungoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     ![Snake animation](https://github.com/BelmiroMungoi/belmiomungoi/blob/output/github-contribution-grid-snake.svg)
