@@ -3,14 +3,7 @@
 - 🌱 I’m currently learning Java for web with Spring Boot Framework 
 - 👯 I’m looking to collaborate on java projects and spring boot projects
 - 💬 Feel free to ask me about Java, Servlets and Spring Framework
-- 
-<--
-- 🤔 I’m looking for help with ...
-- 🔭 I’m currently working on ...-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 <div align="center">
   <a href="https://github.com/BelmiroMungoi">
