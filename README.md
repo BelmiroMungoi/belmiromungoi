@@ -1,4 +1,4 @@
-### Hi there it's Belmiro here👋, I'm a software devlepor and computer engineer student and I'm passionate about programming and technolgy. 
+### Hi there it's Belmiro here👋, I'm a software developor and computer engineer student and I'm passionate about programming and technolgy. 
 
 - 🌱 I’m currently learning Java for web with Spring Boot Framework 
 - 👯 I’m looking to collaborate on java projects and spring boot projects
